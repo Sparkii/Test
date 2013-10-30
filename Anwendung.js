@@ -1,2 +1,2 @@
-function testeZeichenTestGitHub (testString, erlaubteZeichen)
+function testeZeichenTestGitHub123 (testString, erlaubteZeichen)
 
