@@ -1,0 +1,1 @@
+function testeZeichenTestGitHub (testString, erlaubteZeichen)
