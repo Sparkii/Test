@@ -1,1 +1,2 @@
 function testeZeichenTestGitHub (testString, erlaubteZeichen)
+
